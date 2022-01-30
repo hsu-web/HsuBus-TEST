@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413487942263",
+    "project_id": "hsubus-test",
+    "storage_bucket": "hsubus-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413487942263:android:50af857512cb5aa921d472",
+        "android_client_info": {
+          "package_name": "example.com.hsubus_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413487942263-ogv8uvo3nsj6ksvj9d3mitlp7uc7plg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFVxNCqPzfkYr4Uu0bC_GcexenRKPJGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413487942263-ogv8uvo3nsj6ksvj9d3mitlp7uc7plg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
